@@ -1,2 +1,0 @@
-# SpringMongoData
-Spring Cluster Projects
