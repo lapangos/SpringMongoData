@@ -1,2 +1,2 @@
-# SpringMongoData
+# SpringMongoDataJPA
 Spring Cluster Projects
